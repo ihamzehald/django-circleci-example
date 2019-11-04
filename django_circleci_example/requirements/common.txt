@@ -1,3 +1,8 @@
+Django==2.0.13
+django-allauth==0.30.0
+django-crispy-forms==1.7.2
+celery==4.2.0
+coverage==4.5.1
 edx-lint==0.5.5
 astroid==1.5.2
 pylint==1.7.1
